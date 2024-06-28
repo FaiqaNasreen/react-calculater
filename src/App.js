@@ -19,7 +19,9 @@ function App() {
       setvalue(value + val);
     }
   };
+  
   return (
+    
     <div className="App">
         <div className='container'>
            <div className='calculater'>
